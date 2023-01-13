@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingAnalysis", "PingAnalysis\PingAnalysis.csproj", "{F3F3640B-2589-4F80-A07D-E153458C52D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingAnalysis", "PingAnalysis\PingAnalysis.csproj", "{F3F3640B-2589-4F80-A07D-E153458C52D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPing", "TestPing\TestPing.csproj", "{71260B5F-2186-43C4-9AE6-B35D23B1B898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F3F3640B-2589-4F80-A07D-E153458C52D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3F3640B-2589-4F80-A07D-E153458C52D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3F3640B-2589-4F80-A07D-E153458C52D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71260B5F-2186-43C4-9AE6-B35D23B1B898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71260B5F-2186-43C4-9AE6-B35D23B1B898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71260B5F-2186-43C4-9AE6-B35D23B1B898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71260B5F-2186-43C4-9AE6-B35D23B1B898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
