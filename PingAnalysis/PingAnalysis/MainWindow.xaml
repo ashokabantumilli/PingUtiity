@@ -25,9 +25,10 @@
         <Label x:Name="label" Grid.Column="1" Content="MinTime" HorizontalAlignment="Left" Margin="318,308,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.375,-0.517"/>
         <Label x:Name="label2" Grid.Column="1" Content="AverageTime" HorizontalAlignment="Left" Margin="318,394,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.38,-0.057"/>
         <Label x:Name="label3" Grid.Column="1" Content="MaxTime" HorizontalAlignment="Left" Margin="318,507,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Grid.Column="1" Content="CurrentMinute" HorizontalAlignment="Left" Margin="318,208,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button" Grid.Column="1" Content="0" HorizontalAlignment="Left" Margin="420,308,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button1" Grid.Column="1" Content="0" HorizontalAlignment="Left" Margin="420,394,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button2" Grid.Column="1" Content="0" HorizontalAlignment="Left" Margin="420,507,0,0" VerticalAlignment="Top"/>
-
+        <Button x:Name="button3" Grid.Column="1" Content="0" HorizontalAlignment="Left" Margin="420,208,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
